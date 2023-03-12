@@ -8,6 +8,6 @@ python script that uses the requests and BeautifulSoup libraries to download ins
 
 3. run the script in your terminal by typing 'python download_instagram_profile_picture.py'.
 
-4. Enter the Instagram username of the profile picture you want to download when prompted.
+4. enter the instagram username of the profile picture you want to download when prompted.
 
-5. The script will download the profile picture and save it to your current working directory with the name '<username>.jpg'.
+5. the script will download the profile picture and save it to your current working directory with the name '<username>.jpg'.
